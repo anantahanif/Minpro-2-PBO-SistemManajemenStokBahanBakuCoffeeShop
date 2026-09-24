@@ -1,0 +1,5 @@
+model\BahanPadat.class
+com\mycompany\minpro2\Minpro2.class
+model\BahanCair.class
+controller\StokController.class
+model\Bahan.class
